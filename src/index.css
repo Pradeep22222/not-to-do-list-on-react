@@ -1,0 +1,23 @@
+.wrapper {
+  min-height: 100vh;
+  background: linear-gradient(
+    to right bottom,
+    rgba(0, 72, 255, 0.777),
+    rgba(154, 7, 239, 0.601)
+  );
+}
+.task-table {
+  background: rgba(241, 160, 160, 0.624);
+  padding: 1rem;
+  box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.592);
+  backdrop-filter: blur(0.3rem);
+}
+.table {
+  background-color: rgba(255, 255, 255, 0.833);
+}
+.entry_list {
+  background-color: rgba(150, 251, 9, 0.4);
+}
+.bad_list {
+  background-color: rgba(255, 115, 0, 0.4);
+}
